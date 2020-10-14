@@ -1,0 +1,35 @@
+.header {
+    background-color:aqua;
+    text-align: center;
+    padding: 5%;
+  }
+
+.kiri {
+    background-color: blanchedalmond;
+    text-align: center;
+    padding-top: 30%;
+    float: left;
+    width: 20%;
+}
+
+.isi {
+    background-color: lightcoral;
+    text-align: center;
+    padding-top: 30%;
+    float: left;
+    width: 60%;
+}
+
+.kanan {
+    background-color: blanchedalmond;
+    text-align: center;
+    padding-top: 30%;
+    float: left;
+    width: 20%;
+}
+
+.kaki {
+    background-color:aqua;
+    text-align: center;
+    padding: 7%;
+  }
